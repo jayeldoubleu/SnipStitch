@@ -11,6 +11,12 @@ Built for people who want:
 
 ---
 
+## Screenshot
+
+![SnipStitch Hero](screenshots/hero.png)
+
+---
+
 ## Features
 
 - Vertical scrolling screenshot stitching
@@ -23,6 +29,13 @@ Built for people who want:
 - Multi-monitor support
 - Portable Windows EXE
 - Fully local operation
+- DPI scaling support for 100%, 125%, 150%, and mixed-monitor setups
+
+---
+
+## Capture Workflow
+
+![Capture Workflow](screenshots/capture-workflow.png)
 
 ---
 
@@ -62,6 +75,8 @@ SnipStitch runs completely locally.
 - No cloud upload
 - No telemetry
 - No account required
+- No accounts
+- No subscriptions
 
 ---
 
@@ -79,4 +94,18 @@ Third-party license notices are included in release packages.
 
 ## Status
 
-Current Release: v0.3
+Current Release: v0.3.1
+
+---
+
+## Roadmap
+
+Planned improvements:
+
+- Improved stitch detection
+- Optional automatic scrolling
+- GIF/video workflow demos
+- Installer package
+- Auto-update checker
+- Additional export options
+- UI polish and workflow improvements
